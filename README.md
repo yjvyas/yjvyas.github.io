@@ -3,7 +3,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 Specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research at several world-leading labs. Skilled in C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
 
-<br><br>
+
 ## Education
 <details>
 <summary><strong>Doctor of Philosophy</strong> – University of Padua, Department of Industrial Engineering</summary>
@@ -46,7 +46,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
 ## Skills
 <details>
 <summary><strong>Robotics</strong></summary>
@@ -100,7 +100,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
 ## Professional Experience
 <details>
 <summary><strong>Research Assistant</strong> – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)</summary>
@@ -137,7 +137,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
 ## Scholarships and Awards
 <details>
 <summary>Tillyard Prize - Australian National University</summary>
@@ -153,7 +153,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
 ## Publications
 <details>
 <summary><strong>Click to expand</strong></summary>
@@ -165,7 +165,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
 ## Extracurricular Experience
 <details>
 <summary><strong>Program Manager</strong> – Youth Leading in STEM</summary>
