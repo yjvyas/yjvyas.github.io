@@ -45,7 +45,6 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-
 ## Skills
 <details>
 <summary><strong>Robotics</strong></summary>
