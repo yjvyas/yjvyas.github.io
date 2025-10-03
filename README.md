@@ -101,6 +101,33 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <br><br>
+## Projects
+<details>
+<summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator</summary>
+<video src="/assets/video/Forbal-5_hand.mp4" controls></video>
+<ul>
+<li>Comprehensive literature review of over 120+ papers, currently under review for publication.</li>
+<li>High level concept modelling, analysis and comparison, <a href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785">published in ASME Journal of Mechanisms and Robotics</a></li>
+<li>Developed and experimentally validated a force-balanced manipulator design using a closed-chain planar five-bar linkage, introducing Forbal-2 (2-DOF planar) and Forbal-5 (5-DOF spatial) variants</li>
+<li>Derived inverse kinematics for both manipulator variants based on geometric principles, optimizing for force balance conditions and maximizing workspace</li>
+<li>Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with notable reductions in reaction moments and position error</li>
+<li>Validated the design's suitability for applications requiring millimeter-level precision by reducing joint torques and reaction forces/moments, particularly effective for higher payload masses in Forbal-5</li>
+  <li>Submitted to ASME Journal of Mechanical Design, <a href=" https://arxiv.org/abs/2509.03119">preprint available</a></li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Aeroguide</strong> – Tethered Aerial Robot for Guiding Humans via Physical Interaction</summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<ul>
+<li>Developed a human-state-aware controller for a tethered aerial robot to guide humans through physical interaction</li>
+<li>Modeled and estimated human walking gait for improved robot responsiveness and safety</li>
+<li>Integrated multi-sensor data for real-time state estimation in dynamic environments</li>
+<li>Validated system through simulations and real-world experiments, achieving stable guidance with minimal user effort</li>
+</ul>
+</details>
+
+<br><br>
 ## Professional Experience
 <details>
 <summary><strong>Research Assistant</strong> – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)</summary>
