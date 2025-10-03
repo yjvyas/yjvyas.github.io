@@ -3,7 +3,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 Specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research at several world-leading labs. Skilled in C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
 
-<br><>
+<br>
 ## Education
 <details>
 <summary><strong>Doctor of Philosophy</strong> – University of Padua, Department of Industrial Engineering</summary>
