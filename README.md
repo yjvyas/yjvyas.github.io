@@ -3,7 +3,8 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 Specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research at several world-leading labs. Skilled in C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
 
-<br><br>
+
+
 ## Education
 <details>
 <summary><strong>Doctor of Philosophy</strong> – University of Padua, Department of Industrial Engineering</summary>
@@ -46,7 +47,8 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
+
 ## Skills
 <details>
 <summary><strong>Robotics</strong></summary>
@@ -100,7 +102,8 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
+
 ## Projects
 <details>
 <summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)</summary>
@@ -152,7 +155,8 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
+
 ## Professional Experience
 <details>
 <summary><strong>Research Assistant</strong> – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)</summary>
@@ -189,7 +193,8 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
+
 ## Scholarships and Awards
 <details>
 <summary>Tillyard Prize - Australian National University</summary>
@@ -205,15 +210,21 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
-<br><br>
+
+
 ## Publications
 <details>
 <summary><strong>Click to expand</strong></summary>
 <ul>
-<li>Y. Vyas, M. Bottin, (2025), “Forbal: Force Balanced 2-5 Degree of Freedom Robot Manipulator Built from a Five Bar Linkage” in ASME Journal of Mechanical Design, [under review], Preprint: https://arxiv.org/abs/2509.03119.</li>
+<li>Y. Vyas, M. Bottin, (2025), “Forbal: Force Balanced 2-5 Degree of Freedom Robot Manipulator Built from a Five Bar Linkage”, in ASME Journal of Mechanical Design, [under review], Preprint: https://arxiv.org/abs/2509.03119.</li>
 <li>Y. Vyas, M. Bottin, M. Tognon & S. Cocuzza (2024), “Design and comparative analysis of force balanced 2 degree of freedom planar robot manipulator concepts” in ASME Journal of Mechanisms and Robotics. November 2025; 17(11): 115001, doi: 10.1115/1.4069221.</li>
-<li>M. Allenspach, Y. Vyas, M. Rubio, R. Siegwart & M. Tognon (2022), “Human-State-Aware Controller for a Tethered Aerial Robot Guiding a Human by Physical Interaction,” in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2022.3143574.</li>
-<li>Y. Vyas, M. Allenspach, C. Lanegger, R. Siegwart & M. Tognon (2021). “Modelling and Estimation of Human Walking Gait for Physical Human-Robot Interaction,” in IEEE Aerial Robotic Systems Physically Interacting with the Environment (AIRPHARO), Biograd na Moru, Croatia, 4-5/10/2021.</li>
+<li>Y. Vyas, M. Tognon & S. Cocuzza (2024), "Force-balanced 2 Degree of Freedom Robot Manipulator based on Four Bar Linkages" in European Robotics Forum (pp. 378-383). Cham: Springer Nature Switzerland.</li>
+<li>M. Allenspach, Y. Vyas, M. Rubio, R. Siegwart & M. Tognon (2022), “Human-State-Aware Controller for a Tethered Aerial Robot Guiding a Human by Physical Interaction”, in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2022.3143574.</li>
+<li>Y. Vyas, M. Allenspach, C. Lanegger, R. Siegwart & M. Tognon (2021), “Modelling and Estimation of Human Walking Gait for Physical Human-Robot Interaction”, in IEEE Aerial Robotic Systems Physically Interacting with the Environment (AIRPHARO), Biograd na Moru, Croatia, 4-5/10/2021.</li>
+<li>Y. Vyas, A. Pasetto, V. Ayala-Alfaro, N. Massella, & S. Cocuzza (2023), "Null-space minimization of center of gravity displacement of a redundant aerial manipulator", in MDPI Robotics, 12(2), p.31.</li>
+<li>Y. Vyas, A. Pasetto, & S. Cocuzza (2023), "Zero reaction torque trajectory tracking of an aerial manipulator through Extended Generalized Jacobian", in MDPI Applied Sciences, 12(23), p.12254.</li>
+<li>Y. Vyas, E. Campbell, S. Anderson, & M. Adcock (2017), "A workflow for Web3D interactive outdoor scene visualisation", in Proceedings of the 22nd International Conference on 3D Web Technology (pp. 1-4).</li>
+<li>C. Browne, Y. Vyas, A. Mendoza, A. Sindermann, B. Holland, & E. Lynch, (2017) "Students as co-creators of an online learning resource", Teaching and Learning Together in Higher Education, 1(21), p.3.</li>
 </ul>
 </details>
 
