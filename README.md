@@ -45,9 +45,10 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </ul>
 </details>
 
+
 ## Skills
 <details>
-<summary>Robotics</summary>
+<summary><strong>Robotics</strong></summary>
 <ul>
 <li><strong>Control:</strong> Inverse/forward dynamics, PID, Model Predictive Control (MPC), compliant control</li>
 <li><strong>Learning Methods:</strong> Reinforcement Learning for motion control, Deep Learning for perception</li>
@@ -57,7 +58,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary>Research</summary>
+<summary><strong>Research</strong></summary>
 <ul>
 <li><strong>Mechanics:</strong> Parallel and serial mechanisms, force balancing, multi-body dynamics</li>
 <li><strong>Modelling & Simulation:</strong> kinematic/dynamic system design, mechatronic systems</li>
@@ -68,7 +69,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary>Software</summary>
+<summary><strong>Software</strong></summary>
 <ul>
 <li><strong>Programming:</strong> Python, MATLAB, C++, C</li>
 <li><strong>Libraries:</strong> ROS/ROS2, PyTorch, OpenCV, SciPy, Scikit-Learn, Pandas</li>
@@ -78,7 +79,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary>General</summary>
+<summary><strong>General</strong></summary>
 <ul>
 <li>Team leadership, project management, and systems engineering</li>
 <li>Collaborative development of shared codebases following best practices</li>
@@ -87,7 +88,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary>Languages</summary>
+<summary><strong>Languages</strong></summary>
 <ul>
 <li>English (Native)</li>
 <li>Mandarin Chinese (C1, fluent)</li>
