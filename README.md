@@ -112,7 +112,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 <li>Derived inverse kinematics for both manipulator variants based on geometric principles, optimizing for force balance conditions and maximizing workspace</li>
 <li>Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with notable reductions in reaction moments and position error</li>
 <li>Validated the design's suitability for applications requiring millimeter-level precision by reducing joint torques and reaction forces/moments, particularly effective for higher payload masses in Forbal-5</li>
-  <li>Submitted to ASME Journal of Mechanical Design, <a href=" https://arxiv.org/abs/2509.03119">preprint available</a></li>
+<li>Submitted to ASME Journal of Mechanical Design, <a href=" https://arxiv.org/abs/2509.03119">preprint</a> and <a href="https://github.com/yjvyas/forbal">code </a> available</li>
 </ul>
 </details>
 
@@ -133,6 +133,22 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 <li>Modeled and estimated human walking gait for improved robot responsiveness and safety, <a href="https://ieeexplore.ieee.org/abstract/document/9571032/">published in IEEE</a></li>
 <li>Integrated multi-sensor data (localization and force feedback) for real-time state estimation in dynamic environments</li>
 <li>Validated system through simulations and real-world experiments, achieving stable guidance with minimal user effort, <a href="https://ieeexplore.ieee.org/abstract/document/9684670">published in IEEE</a></li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Safe Planning under wind for UAVs</strong> (Autonomous Systems Lab, ETH Zurich)</summary>
+<ul>
+<li>Implemented a framework to propagate wind uncertainty into path planning for UAVs</li>
+<li>Conceptual proof-of-concept using python libraries, integrating motion planning (Dubin's paths), state estimation, and navigation (RRT*)</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>DO-SLAM</strong> – Robot SLAM with dynamic Objects (Australian Centre for Robot Vision, ANU)</summary>
+<ul>
+<li>Developed a front-end framework to generate simulated data with motion information based on various motion models, enhancing the SLAM solver's accuracy by integrating dynamic object tracking</li>
+<li>Contributed to testing the framework, validating that constant motion estimation consistently improved robot localisation and map accuracy when the motion model matched real-world conditions</li>
 </ul>
 </details>
 
