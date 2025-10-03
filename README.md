@@ -103,7 +103,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 <br><br>
 ## Projects
 <details>
-<summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator</summary>
+<summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)</summary>
 <video src="/assets/video/Forbal-5_hand.mp4" controls></video>
 <ul>
 <li>Comprehensive literature review of over 120+ papers, currently under review for publication.</li>
@@ -117,13 +117,22 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary><strong>Aeroguide</strong> – Tethered Aerial Robot for Guiding Humans via Physical Interaction</summary>
+<summary><strong>Lunar Leaper</strong> – legged robot locomotion for lunar exploration (Robotic Systems Lab, ETH Zurich)</summary>
+<ul>
+<li>Terrain modelling of granular surfaces</li>
+<li>Reinforcement Learning locomotion control with Reward Tuning for optimal gaits</li>
+<li>Continued collaboration with RSL to bridge the sim-to-real gap and deploy on a physical legged robot with gravity-offset</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Aeroguide</strong> – Tethered Aerial Robot for Guiding Humans via Physical Interaction (Autonomous Systems Lab, ETH Zurich)</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <ul>
-<li>Developed a human-state-aware controller for a tethered aerial robot to guide humans through physical interaction</li>
-<li>Modeled and estimated human walking gait for improved robot responsiveness and safety</li>
-<li>Integrated multi-sensor data for real-time state estimation in dynamic environments</li>
-<li>Validated system through simulations and real-world experiments, achieving stable guidance with minimal user effort</li>
+<li>Collaborated on the development of a human-state-aware Admittance control algorithm for a tethered aerial robot to guide humans through physical interaction</li>
+<li>Modeled and estimated human walking gait for improved robot responsiveness and safety, <a href="https://ieeexplore.ieee.org/abstract/document/9571032/">published in IEEE</a></li>
+<li>Integrated multi-sensor data (localization and force feedback) for real-time state estimation in dynamic environments</li>
+<li>Validated system through simulations and real-world experiments, achieving stable guidance with minimal user effort, <a href="https://ieeexplore.ieee.org/abstract/document/9684670">published in IEEE</a></li>
 </ul>
 </details>
 
@@ -138,7 +147,7 @@ Specializing in mechanical/control co-design, robot manipulation, and mobile rob
 </details>
 
 <details>
-<summary><strong>Technology Graduate</strong> – Qantas Airways Ltd., Sydney (Australia)</summary>
+<summary><strong>Technology Graduate</strong> – Qantas Airways, Sydney (Australia)</summary>
 <p>02/2018 – 08/2019</p>
 <ul>
 <li>Data Science research in the Revenue Optimisation team which adds several hundred million dollars in annual revenue, conducting feature engineering for machine learning algorithms applied to the prediction of passenger and freight demand for accurate pricing</li>
