@@ -11,6 +11,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <li>Funded by the UniPhD EU Marie-Curie Scholarship, administering €43,200 of research funding</li>
 <li>PhD Thesis: “Development and validation of a novel balanced robot manipulator” – designed, simulated, prototyped, and experimentally validated a modular parallel manipulator, achieving 79% torque reduction and 56% precision improvement through force-balancing co-design</li>
 <li>Conducted comprehensive literature review of 120+ papers, tradeoff analysis using modelling & simulation, mechanical design, prototyping, software integration, and experimental validation</li>
+<li>PhD defence in March 2026</li>
 </ul>
 </details>
 
