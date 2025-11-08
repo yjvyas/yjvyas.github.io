@@ -19,7 +19,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <summary><strong>Visiting Researcher</strong> – Robotic Systems Lab, ETH Zürich</summary>
 <p>03/2025 – 09/2025</p>
 <ul>
-<li>Mechanical/locomotion analysis of a legged robot for lunar exploration using Reinforcement Learning and terrain modelling</li>
+<li>Lunar Leaper Project: Mechanical/locomotion analysis of a legged robot for lunar exploration using Reinforcement Learning and terrain modelling</li>
 </ul>
 </details>
 
@@ -123,7 +123,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <ul>
 <li>Terrain modelling of granular surfaces</li>
 <li>Reinforcement Learning locomotion control with Reward Tuning for optimal gaits</li>
-<li>Continued collaboration with RSL to bridge the sim-to-real gap and deploy on a physical legged robot with gravity-offset</li>
+<li>Continued collaboration with RSL for training a robust policy that works on both rigid and soft terrains, to be published in a suitable conference</li>
 </ul>
 </details>
 
