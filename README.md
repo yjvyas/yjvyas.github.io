@@ -151,7 +151,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <summary><strong>Track this!</strong> (Autonomous Systems Lab, ETH Zurich)</summary>
 <ul>
 <li>6D Object pose estimation using motion embeddings in Deep-Learning methods</li>
-<li>Adapted YOLO and demonstrated the potential of motion embeddings / post-process Kalman Filtering improves pose estimation over time</li>
+<li>Adapted YOLO and demonstrated the potential of motion embeddings / post-process Kalman Filtering to improve pose estimation over time</li>
 </ul>
 </details>
 
