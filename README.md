@@ -143,6 +143,15 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <ul>
 <li>Implemented a framework to propagate wind uncertainty into path planning for UAVs</li>
 <li>Conceptual proof-of-concept using python libraries, integrating motion planning (Dubin's paths), state estimation, and navigation (RRT*)</li>
+<li>Working on implementing this in UAV navigation libraries and publishing the results</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Track this!</strong> (Autonomous Systems Lab, ETH Zurich)</summary>
+<ul>
+<li>6D Object pose estimation using motion embeddings in Deep-Learning methods</li>
+<li>Adapted YOLO and demonstrated the potential of motion embeddings / post-process Kalman Filtering improves pose estimation over time</li>
 </ul>
 </details>
 
