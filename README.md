@@ -205,6 +205,15 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ## Scholarships and Awards
 <details>
+<summary>UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship - European Union, University of Padua</summary>
+<ul>
+<li>Grant Agreement no. 101034319</li>
+<li>Administering €43,200 of research funding</li>
+<li>Training in communication, research dissemination, and entrepreneurship.</li>
+</ul>
+</details>
+
+<details>
 <summary>Tillyard Prize - Australian National University</summary>
 <ul>
 <li>Most outstanding undergraduate student</li>
