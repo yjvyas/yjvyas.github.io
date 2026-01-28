@@ -233,6 +233,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 <details>
 <summary><strong>Click to expand</strong></summary>
 <ul>
+<li>Y. Vyas, V. van der Wijk, S. Cocuzza, (2025), "A Review of Mechanical Design Approaches for Balanced Robotic Manipulation" in MDPI Robotics, 14(11):151. doi:10.3390/robotics14110151</li>
 <li>Y. Vyas, M. Bottin, (2025), “Forbal: Force Balanced 2-5 Degree of Freedom Robot Manipulator Built from a Five Bar Linkage”, in ASME Journal of Mechanical Design, [under review], Preprint: https://arxiv.org/abs/2509.03119.</li>
 <li>Y. Vyas, M. Bottin, M. Tognon & S. Cocuzza (2024), “Design and comparative analysis of force balanced 2 degree of freedom planar robot manipulator concepts” in ASME Journal of Mechanisms and Robotics. November 2025; 17(11): 115001, doi: 10.1115/1.4069221.</li>
 <li>Y. Vyas, M. Tognon & S. Cocuzza (2024), "Force-balanced 2 Degree of Freedom Robot Manipulator based on Four Bar Linkages" in European Robotics Forum (pp. 378-383). Cham: Springer Nature Switzerland.</li>
