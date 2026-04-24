@@ -106,7 +106,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ## Projects
 <details>
 <summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)</summary>
-<iframe width="560" height="315" src="https://youtu.be/XcAIYPPQAZ4?si=Q5S6eBXKNLdP2_Vv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcAIYPPQAZ4?si=xn-pOVo8c9asuaus" title="YouTube video player Forbal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <ul>
 <li>Comprehensive literature review of over 120+ papers, currently under review for publication.</li>
 <li>High level concept modelling, analysis and comparison, <a href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785">published in ASME Journal of Mechanisms and Robotics</a></li>
@@ -129,7 +129,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 <details>
 <summary><strong>Aeroguide</strong> – Tethered Aerial Robot for Guiding Humans via Physical Interaction (Autonomous Systems Lab, ETH Zurich)</summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player Aeroguide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <ul>
 <li>Collaborated on the development of a human-state-aware Admittance control algorithm for a tethered aerial robot to guide humans through physical interaction</li>
 <li>Modeled and estimated human walking gait for improved robot responsiveness and safety, <a href="https://ieeexplore.ieee.org/abstract/document/9571032/">published in IEEE</a></li>
