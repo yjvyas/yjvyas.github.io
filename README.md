@@ -106,7 +106,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ## Projects
 <details>
 <summary><strong>Forbal</strong> – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)</summary>
-<video src="/assets/video/Forbal-5_hand.mp4" controls></video>
+<iframe width="560" height="315" src="https://youtu.be/XcAIYPPQAZ4?si=Q5S6eBXKNLdP2_Vv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <ul>
 <li>Comprehensive literature review of over 120+ papers, currently under review for publication.</li>
 <li>High level concept modelling, analysis and comparison, <a href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785">published in ASME Journal of Mechanisms and Robotics</a></li>
