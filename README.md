@@ -7,7 +7,8 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ## Featured Work
 ### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XcAIYPPQAZ4?si=xn-pOVo8c9asuaus" title="YouTube video player Forbal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Preprint (under review)](https://arxiv.org/abs/2509.03119) and [code](https://github.com/yjvyas/forbal)
+
+* [Preprint (under review)](https://arxiv.org/abs/2509.03119) and [code](https://github.com/yjvyas/forbal)
 * Developed, prototyped, and experimentally validated a force-balanced manipulator design using a closed-chain planar five-bar linkage, introducing Forbal-2 (2-DOF planar) and Forbal-5 (5-DOF spatial) variants
 * Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with improvements in precision
 
@@ -19,7 +20,8 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ### Aeroguide – Tethered Aerial Robot for Guiding Humans via Physical Interaction (ASL, ETH Zurich)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player Aeroguide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Published in [IEEE R-AL](https://ieeexplore.ieee.org/abstract/document/9571032/)
+
+* Published in [IEEE R-AL](https://ieeexplore.ieee.org/abstract/document/9571032/)
 * Collaborated on the development of a human-state-aware Admittance control algorithm for a tethered aerial robot to guide humans through physical interaction.
 * Modeled and estimated human walking gait for improved robot responsiveness and safety, published in [IEEE](https://ieeexplore.ieee.org/abstract/document/9571032/)
 * Integrated multi-sensor data (localization and force feedback) for real-time state estimation in dynamic environments
