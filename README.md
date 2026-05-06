@@ -1,24 +1,24 @@
-Robotics Researcher specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research periods at several world-leading labs and large industry organisations. Skilled in C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
+Robotics Engineer specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research periods at several world-leading labs and large industry organisations. Skilled in CAD, simulation, C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
 
 yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https://github.com/yjvyas)
 
 ---
 
 ## Featured Work
-### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)
+### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (Department of Industrial Engineering, University of Padua)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XcAIYPPQAZ4?si=xn-pOVo8c9asuaus" title="YouTube video player Forbal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * [Preprint (under review)](https://arxiv.org/abs/2509.03119) and [code](https://github.com/yjvyas/forbal)
 * Developed, prototyped, and experimentally validated a force-balanced manipulator design using a closed-chain planar five-bar linkage, introducing Forbal-2 (2-DOF planar) and Forbal-5 (5-DOF spatial) variants
 * Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with improvements in precision
 
-### Lunar Leaper – Legged robot locomotion for lunar exploration (RSL, ETH Zurich)
+### Lunar Leaper – Legged robot locomotion for lunar exploration (Robotic Systems Lab, ETH Zurich)
 * Contributing to the initial development of the first legged robot to be deployed for lunar exploration
 * Modelling of robot foot - granular surfaces using Raisim (C++), implementing a Reinforcement Learning pipeline from scratch using Pytorch
 * Reinforcement Learning locomotion control with Reward Tuning for optimal gaits
 * Qualitative and quantitative analysis of the robot gait, benchmarking granular and soft contacts in terms of torques, power consumption and energy
 
-### Aeroguide – Tethered Aerial Robot for Guiding Humans via Physical Interaction (ASL, ETH Zurich)
+### Aeroguide – Tethered Aerial Robot for Guiding Humans via Physical Interaction (Autonomous Systems Lab, ETH Zurich)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player Aeroguide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Published in [IEEE R-AL](https://ieeexplore.ieee.org/abstract/document/9571032/)
@@ -61,14 +61,10 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 **10/2022 – 02/2026**
 * Funded by the UniPhD EU Marie-Curie Fellowship, administering €43,200 of research funding
 * **PhD Thesis:** ”Development and validation of a novel balanced robot manipulator”
-
-### Visiting Researcher – Robotic Systems Lab, ETH Zürich
-**03/2025 – 09/2025**
-* **Lunar Leaper Project:** Mechanical/locomotion analysis of a legged robot for lunar exploration using Reinforcement Learning and terrain modelling.
+* **Visiting Research period** at Robotic Systems Lab, **ETH Zurich** (03/2025 - 09/2025).
 
 ### Master’s of Science in Robotics, Systems and Control – ETH Zürich
 **09/2019 – 10/2021**
-
 * GPA: 5.55/6.00, with 6.0 (full) mark in Master’s Thesis.
 * **Master’s Thesis:** “Human Walking Gait Modelling & Estimation for Physical Human-Robot Interaction with an Aerial Robot” at the Autonomous Systems Lab, with publications in IEEE.
 * Semester Project in “Safe Path Planning under wind for UAVs” at ASL.
@@ -76,7 +72,6 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 
 ### Bachelor of Engineering (Honours) / Bachelor of Arts – Australian National University
 **02/2013 – 12/2017**
-
 * First Class Honours (H1) in Engineering, GPA: 6.61/7.00.
 * **Majors:** Mechatronic Systems (Engineering), Chinese Language (Arts).
 * **Bachelor’s Thesis:** “Robot Simultaneous Localisation and Mapping with Dynamic Objects”.
@@ -87,7 +82,7 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 
 ## Professional Experience
 ### PhD Candidate – University of Padua, Department of Industrial Engineering (Italy)
-**10/2022 – 02/2026**
+**10/2022 – 09/2025**
 * Full-cycle development and experimental validation of a novel parallel manipulator, achieving 79% torque reduction and 56% precision improvement for precision industrial applications
 * Comprehensive literature review of over 120+ papers, published in [MDPI Robotics](https://www.mdpi.com/2218-6581/14/11/151).
 * High level concept modelling, analysis and comparison, [published in ASME Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785)
@@ -118,7 +113,6 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 
 ### Program Manager – Youth Leading in STEM
 **03/2016 – 02/2018**
-
 * Setup and executed the successful pilot of an educational science/technology outreach program for rural and low-socioeconomic background secondary school students.
 * Wrote proposal documentation, liaised with sponsors, and raised AUD$10,000 of funding.
 * Led an 8-person team and coordinated several university departments to deliver the project.
@@ -126,7 +120,6 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 ---
 
 ## Scholarships and Awards
-
 * **UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship:** European Union, University of Padua. Administering €43,200 of research funding.
 * **Tillyard Prize - Australian National University:** Awarded to the most outstanding undergraduate student.
 * **National Merit Scholarship - Australian National University:** AUD$32,500 over 5 years based on an ATAR of 99.75 (Top 0.2% of students).
