@@ -84,13 +84,13 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 ### PhD Candidate – University of Padua, Department of Industrial Engineering (Italy)
 **10/2022 – 09/2025**
 * Full-cycle development and experimental validation of a novel parallel manipulator, achieving 79% torque reduction and 56% precision improvement for precision industrial applications
-* Comprehensive literature review of over 120+ papers, published in [MDPI Robotics](https://www.mdpi.com/2218-6581/14/11/151).
-* High level concept modelling, analysis and comparison, [published in ASME Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785)
+* Comprehensive literature review of over 120+ papers, published in [MDPI Robotics](https://www.mdpi.com/2218-6581/14/11/151)
+* High level concept modelling, analysis and comparison, published in [ASME Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785)
 * **Visiting researcher at Robotic Systems Lab, ETH Zurich (03/2025-09/2025):** Locomotion analysis for developing a lunar exploration legged robot (Lunar Leaper), integrating physical simulation of complex legged robot foot contact dynamics with Reinforcement Learning policy training
 
 ### Research Assistant – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)
 **11/2021 – 01/2022**
-* Developed multi-sensor integration pipelines (visual odometry + GPS) for robust state estimation in aerial robots, contributing to real-time hardware/software integration and control.
+* Developed multi-sensor integration pipelines (visual odometry + GPS) for robust state estimation in aerial robots, contributing to real-time hardware/software integration and control
 
 ### Technology Graduate – Qantas Airways, Sydney (Australia)
 **02/2018 – 08/2019**
@@ -99,13 +99,13 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 
 ### Vacation Scholar – CSIRO, Canberra (Australia)
 **11/2016 – 03/2017**
-* Conducted research in ‘Novel Urban Visualisation Methods’: developed an Augmented Reality workflow to visualise and interact with outdoor urban scenes in a web browser.
-* Researched and applied computer vision algorithms for 3D path tracking and visualization using JavaScript (three.js), publishing results at the Web3D 2017 conference.
+* Conducted research in ‘Novel Urban Visualisation Methods’: developed an Augmented Reality workflow to visualise and interact with outdoor urban scenes in a web browser
+* Researched and applied computer vision algorithms for 3D path tracking and visualization using JavaScript (three.js), publishing results at the Web3D 2017 conference
 
 ### Teaching Assistant – Australian National University, Canberra (Australia)
 **07/2016 – 12/2017**
-* Courses taught: Systems Engineering Design / Analysis, Introduction to Mechanics.
-* Delivered classes, guided students, and marked assessments with feedback.
+* Courses taught: Systems Engineering Design / Analysis, Introduction to Mechanics
+* Delivered classes, guided students, and marked assessments with feedback
 
 ---
 
@@ -113,31 +113,31 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https:/
 
 ### Program Manager – Youth Leading in STEM
 **03/2016 – 02/2018**
-* Setup and executed the successful pilot of an educational science/technology outreach program for rural and low-socioeconomic background secondary school students.
-* Wrote proposal documentation, liaised with sponsors, and raised AUD$10,000 of funding.
-* Led an 8-person team and coordinated several university departments to deliver the project.
+* Setup and executed the successful pilot of an educational science/technology outreach program for rural and low-socioeconomic background secondary school students
+* Wrote proposal documentation, liaised with sponsors, and raised AUD$10,000 of funding
+* Led an 8-person team and coordinated several university departments to deliver the project
 
 ---
 
 ## Scholarships and Awards
-* **UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship:** European Union, University of Padua. Administering €43,200 of research funding.
-* **Tillyard Prize - Australian National University:** Awarded to the most outstanding undergraduate student.
-* **National Merit Scholarship - Australian National University:** AUD$32,500 over 5 years based on an ATAR of 99.75 (Top 0.2% of students).
+* **UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship:** European Union, University of Padua, administering €43,200 of research funding
+* **Tillyard Prize - Australian National University:** Awarded to the most outstanding undergraduate student
+* **National Merit Scholarship - Australian National University:** AUD$32,500 over 5 years based on an ATAR of 99.75 (Top 0.2% of students)
 
 ---
 
 ## Other Projects
 ### Safe Planning under wind for UAVs (Autonomous Systems Lab, ETH Zurich)
-* Implemented a framework to propagate wind uncertainty into path planning for UAVs.
-* Conceptual proof-of-concept using python libraries, integrating motion planning (Dubin's paths), state estimation, and navigation (RRT*).
+* Implemented a framework to propagate wind uncertainty into path planning for UAVs
+* Conceptual proof-of-concept using python libraries, integrating motion planning (Dubin's paths), state estimation, and navigation (RRT*)
 
 ### Track this! (Autonomous Systems Lab, ETH Zurich)
-* 6D Object pose estimation using motion embeddings in Deep-Learning methods.
-* Adapted YOLO and demonstrated the potential of motion embeddings / post-process Kalman Filtering to improve pose estimation over time.
+* 6D Object pose estimation using motion embeddings in Deep-Learning methods
+* Adapted YOLO and demonstrated the potential of motion embeddings / post-process Kalman Filtering to improve pose estimation over time
 
 ### DO-SLAM – Robot SLAM with dynamic Objects (Australian Centre for Robot Vision, ANU)
-* Developed a front-end framework to generate simulated data with motion information based on various motion models.
-* Contributed to testing the framework, validating that constant motion estimation consistently improved robot localisation and map accuracy.
+* Developed a front-end framework to generate simulated data with motion information based on various motion models
+* Contributed to testing the framework, validating that constant motion estimation consistently improved robot localisation and map accuracy
 
 ---
 
