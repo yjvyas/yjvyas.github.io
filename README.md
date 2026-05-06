@@ -4,60 +4,53 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ---
 
-## Skills
+## Featured Work
+### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcAIYPPQAZ4?si=xn-pOVo8c9asuaus" title="YouTube video player Forbal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Preprint (under review)](https://arxiv.org/abs/2509.03119) and [code](https://github.com/yjvyas/forbal)
+* Developed, prototyped, and experimentally validated a force-balanced manipulator design using a closed-chain planar five-bar linkage, introducing Forbal-2 (2-DOF planar) and Forbal-5 (5-DOF spatial) variants
+* Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with improvements in precision
 
-### Robotics
-* **Mechanics:** Parallel and serial mechanisms, force balancing, multi-body dynamics.
-* **Control:** Inverse/forward dynamics, PID, Model Predictive Control (MPC), compliant control.
-* **Learning Methods:** Reinforcement Learning for motion control, Deep Learning for perception.
-* **Hardware Prototyping:** CAD, mechatronic system assembly, testing, and troubleshooting (breadboarding, soldering, oscilloscopes, multimeters).
-* **System Integration:** Microcontrollers, sensors, actuators, and embedded programming (C/C++ drivers) for real-time robotic control.
-* **Modelling & Simulation:** Kinematic/dynamic system design, mechatronic systems.
-* **State Estimation & Planning:** SLAM, sensor fusion, probabilistic estimation (Kalman filtering), motion planning (RRT*).
-* **Human–Robot Interaction:** Contact and force feedback modelling with compliant control, human and legged robot gait analysis.
-* **Data Science:** Predictive modelling using Machine Learning, data analytics, ETL.
+### Lunar Leaper – Legged robot locomotion for lunar exploration (RSL, ETH Zurich)
+* Contributing to the initial development of the first legged robot to be deployed for lunar exploration
+* Modelling of robot foot - granular surfaces using Raisim (C++), implementing a Reinforcement Learning pipeline from scratch using Pytorch
+* Reinforcement Learning locomotion control with Reward Tuning for optimal gaits
+* Qualitative and quantitative analysis of the robot gait, benchmarking granular and soft contacts in terms of torques, power consumption and energy
 
-### Software
-* **Programming:** Python, MATLAB, C++, C.
-* **Libraries:** ROS/ROS2, PyTorch, OpenCV, SciPy, Scikit-Learn, Pandas.
-* **Simulation & CAD:** SolidWorks, Simulink, SimScape Multibody, ADAMS, Gazebo, Drake, Raisim.
-* **Integration Tools:** Linux (Ubuntu), Bash, Docker, Git.
-
-### General
-* Team leadership, project management, and systems engineering.
-* Collaborative development of shared codebases following best practices.
-* Technical and non-technical communication, from academic publications to pitch presentations.
-
-### Languages
-**English:** Native, **Mandarin Chinese:** professional fluency, **Gujarati:** Native, **Hindi:** fluent, **German:** Basic, **Italian:** Basic
+### Aeroguide – Tethered Aerial Robot for Guiding Humans via Physical Interaction (ASL, ETH Zurich)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player Aeroguide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Published in [IEEE R-AL](https://ieeexplore.ieee.org/abstract/document/9571032/)
+* Collaborated on the development of a human-state-aware Admittance control algorithm for a tethered aerial robot to guide humans through physical interaction.
+* Modeled and estimated human walking gait for improved robot responsiveness and safety, published in [IEEE](https://ieeexplore.ieee.org/abstract/document/9571032/)
+* Integrated multi-sensor data (localization and force feedback) for real-time state estimation in dynamic environments
 
 ---
 
-## Professional Experience
-### PhD Candidate – University of Padua, Department of Industrial Engineering (Italy)
-**10/2022 – 02/2026**
-* Full-cycle development and experimental validation of a novel parallel manipulator, achieving 79% torque reduction and 56% precision improvement for precision industrial applications
-* Conducted a trade-off simulation study of several mechanism concepts, detailed CAD design, prototype fabrication/assembly, and hardware-software integration of the robotic system.
-* **Visiting researcher at Robotic Systems Lab, ETH Zurich (03/2025-09/2025):** Locomotion analysis for developing a lunar exploration legged robot, integrating physical simulation of complex legged robot foot contact dynamics with Reinforcement Learning policy training
+## Skills
+### Robotics
+* **Mechanics:** Parallel and serial mechanisms, force balancing, multi-body dynamics
+* **Control:** Inverse/forward dynamics, PID, Model Predictive Control (MPC), compliant control
+* **Learning Methods:** Reinforcement Learning for motion control, Deep Learning for perception
+* **Hardware Prototyping:** CAD, mechatronic system assembly, testing, and troubleshooting (breadboarding, soldering, oscilloscopes, multimeters)
+* **System Integration:** Microcontrollers, sensors, actuators, and embedded programming (C/C++ drivers) for real-time robotic control
+* **Modelling & Simulation:** Kinematic/dynamic system design, mechatronic systems
+* **State Estimation & Planning:** SLAM, sensor fusion, probabilistic estimation (Kalman filtering), motion planning (RRT*)
+* **Human–Robot Interaction:** Contact and force feedback modelling with compliant control, human and legged robot gait analysis
+* **Data Science:** Predictive modelling using Machine Learning, data analytics, ETL
 
-### Research Assistant – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)
-**11/2021 – 01/2022**
-* Developed multi-sensor integration pipelines (visual odometry + GPS) for robust state estimation in aerial robots, contributing to real-time hardware/software integration and control.
+### Software
+* **Programming:** Python, MATLAB, C++, C
+* **Libraries:** ROS/ROS2, PyTorch, OpenCV, SciPy, Scikit-Learn, Pandas
+* **Simulation & CAD:** SolidWorks, Simulink, SimScape Multibody, ADAMS, Gazebo, Drake, Raisim
+* **Integration Tools:** Linux (Ubuntu), Bash, Docker, Git
 
-### Technology Graduate – Qantas Airways, Sydney (Australia)
-**02/2018 – 08/2019**
-* Applied machine learning in Revenue Optimization work supporting demand prediction for passenger and freight pricing in a team tied to several hundred million dollars in annual revenue
-* Contributed to cloud platform and data engineering rotations, working with Qantas Loyalty databases serving over 12 million customers
+### General
+* Team leadership, project management, and systems engineering
+* Collaborative development of shared codebases following best practices
+* Technical and non-technical communication, from academic publications to pitch presentations
 
-### Vacation Scholar – CSIRO, Canberra (Australia)
-**11/2016 – 03/2017**
-* Conducted research in ‘Novel Urban Visualisation Methods’: developed an Augmented Reality workflow to visualise and interact with outdoor urban scenes in a web browser.
-* Researched and applied computer vision algorithms for 3D path tracking and visualization using JavaScript (three.js), publishing results at the Web3D 2017 conference.
-
-### Teaching Assistant – Australian National University, Canberra (Australia)
-**07/2016 – 12/2017**
-* Courses taught: Systems Engineering Design / Analysis, Introduction to Mechanics.
-* Delivered classes, guided students, and marked assessments with feedback.
+### Languages
+**English:** Native, **Mandarin Chinese:** professional fluency, **Gujarati:** Native, **Hindi:** fluent, **German:** Basic, **Italian:** Basic
 
 ---
 
@@ -90,6 +83,35 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ---
 
+## Professional Experience
+### PhD Candidate – University of Padua, Department of Industrial Engineering (Italy)
+**10/2022 – 02/2026**
+* Full-cycle development and experimental validation of a novel parallel manipulator, achieving 79% torque reduction and 56% precision improvement for precision industrial applications
+* Comprehensive literature review of over 120+ papers, published in [MDPI Robotics](https://www.mdpi.com/2218-6581/14/11/151).
+* High level concept modelling, analysis and comparison, [published in ASME Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785)
+* **Visiting researcher at Robotic Systems Lab, ETH Zurich (03/2025-09/2025):** Locomotion analysis for developing a lunar exploration legged robot (Lunar Leaper), integrating physical simulation of complex legged robot foot contact dynamics with Reinforcement Learning policy training
+
+### Research Assistant – ETH Zürich, Autonomous Systems Lab, Zürich (Switzerland)
+**11/2021 – 01/2022**
+* Developed multi-sensor integration pipelines (visual odometry + GPS) for robust state estimation in aerial robots, contributing to real-time hardware/software integration and control.
+
+### Technology Graduate – Qantas Airways, Sydney (Australia)
+**02/2018 – 08/2019**
+* Applied machine learning in Revenue Optimization work supporting demand prediction for passenger and freight pricing in a team tied to several hundred million dollars in annual revenue
+* Contributed to cloud platform and data engineering rotations, working with Qantas Loyalty databases serving over 12 million customers
+
+### Vacation Scholar – CSIRO, Canberra (Australia)
+**11/2016 – 03/2017**
+* Conducted research in ‘Novel Urban Visualisation Methods’: developed an Augmented Reality workflow to visualise and interact with outdoor urban scenes in a web browser.
+* Researched and applied computer vision algorithms for 3D path tracking and visualization using JavaScript (three.js), publishing results at the Web3D 2017 conference.
+
+### Teaching Assistant – Australian National University, Canberra (Australia)
+**07/2016 – 12/2017**
+* Courses taught: Systems Engineering Design / Analysis, Introduction to Mechanics.
+* Delivered classes, guided students, and marked assessments with feedback.
+
+---
+
 ## Extracurricular Experience
 
 ### Program Manager – Youth Leading in STEM
@@ -101,32 +123,15 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ---
 
-## Projects
+## Scholarships and Awards
 
-### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (DII, University of Padua)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcAIYPPQAZ4?si=xn-pOVo8c9asuaus" title="YouTube video player Forbal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* **UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship:** European Union, University of Padua. Administering €43,200 of research funding.
+* **Tillyard Prize - Australian National University:** Awarded to the most outstanding undergraduate student.
+* **National Merit Scholarship - Australian National University:** AUD$32,500 over 5 years based on an ATAR of 99.75 (Top 0.2% of students).
 
-* Comprehensive literature review of over 120+ papers, published in [MDPI Robotics](https://www.mdpi.com/2218-6581/14/11/151).
-* High level concept modelling, analysis and comparison, [published in ASME Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/17/11/115001/1219785).
-* Developed, prototyped, and experimentally validated a force-balanced manipulator design using a closed-chain planar five-bar linkage, introducing Forbal-2 (2-DOF planar) and Forbal-5 (5-DOF spatial) variants.
-* Derived inverse kinematics for both manipulator variants based on geometric principles, optimizing for force balance conditions and maximizing workspace.
-* Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5.
-* Validated the design's suitability for applications requiring millimeter-level precision.
-* Under review, [preprint](https://arxiv.org/abs/2509.03119) and [code](https://github.com/yjvyas/forbal) available.
+---
 
-### Lunar Leaper – Legged robot locomotion for lunar exploration (Robotic Systems Lab, ETH Zurich)
-* Contributing to the initial development of the first legged robot to be deployed for lunar exploration.
-* Modelling of robot foot - granular surfaces using Raisim (C++), implementing a Reinforcement Learning pipeline from scratch using Pytorch.
-* Reinforcement Learning locomotion control with Reward Tuning for optimal gaits.
-* Qualitative and quantitative analysis of the robot gait, benchmarking granular and soft contacts in terms of torques, power consumption and energy.
-
-### Aeroguide – Tethered Aerial Robot for Guiding Humans via Physical Interaction (Autonomous Systems Lab, ETH Zurich)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tZH1AUFMxvM?si=X9qQ4VV3_PkMi0rL" title="YouTube video player Aeroguide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-* Collaborated on the development of a human-state-aware Admittance control algorithm for a tethered aerial robot to guide humans through physical interaction.
-* Modeled and estimated human walking gait for improved robot responsiveness and safety, [published in IEEE](https://ieeexplore.ieee.org/abstract/document/9571032/).
-* Integrated multi-sensor data (localization and force feedback) for real-time state estimation in dynamic environments.
-* Validated system through simulations and real-world experiments, achieving stable guidance with minimal user effort, [published in IEEE](https://ieeexplore.ieee.org/abstract/document/9684670).
-
+## Other Projects
 ### Safe Planning under wind for UAVs (Autonomous Systems Lab, ETH Zurich)
 * Implemented a framework to propagate wind uncertainty into path planning for UAVs.
 * Conceptual proof-of-concept using python libraries, integrating motion planning (Dubin's paths), state estimation, and navigation (RRT*).
@@ -138,14 +143,6 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ### DO-SLAM – Robot SLAM with dynamic Objects (Australian Centre for Robot Vision, ANU)
 * Developed a front-end framework to generate simulated data with motion information based on various motion models.
 * Contributed to testing the framework, validating that constant motion estimation consistently improved robot localisation and map accuracy.
-
----
-
-## Scholarships and Awards
-
-* **UniPhD Marie Skłodowska-Curie Actions (MSCA) Co-Fund PhD Scholarship:** European Union, University of Padua. Administering €43,200 of research funding.
-* **Tillyard Prize - Australian National University:** Awarded to the most outstanding undergraduate student.
-* **National Merit Scholarship - Australian National University:** AUD$32,500 over 5 years based on an ATAR of 99.75 (Top 0.2% of students).
 
 ---
 
