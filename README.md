@@ -1,8 +1,6 @@
 Robotics Engineer specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research periods at several world-leading labs and large industry organisations. Skilled in CAD, simulation, C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
 
-yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas) | [Github](https://github.com/yjvyas)
-
----
+yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ## Featured Work
 ### Forbal – Force Balanced 2-5 Degree of Freedom Robot Manipulator (Department of Industrial Engineering, University of Padua)
