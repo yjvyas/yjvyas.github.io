@@ -11,10 +11,11 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 * Demonstrated significant performance improvements through experiments, including up to 79% reduction in average joint torques for Forbal-2 and up to 84% for Forbal-5, with improvements in precision
 
 ### Lunar Leaper – Legged robot locomotion for lunar exploration (Robotic Systems Lab, ETH Zurich)
-<video width="560" controls>
+<video width="560" controls autoplay loop muted playsinline>
     <source src="assets/video/LunarLeaper.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>   
+</video>
+
 * Contributing to the initial development of the first legged robot to be deployed for lunar exploration
 * Modelling of robot foot - granular surfaces using Raisim (C++), implementing a Reinforcement Learning pipeline from scratch using Pytorch
 * Reinforcement Learning locomotion control with Reward Tuning for optimal gaits
