@@ -12,7 +12,8 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
 ### Lunar Leaper – Legged robot locomotion for lunar exploration (Robotic Systems Lab, ETH Zurich)
 <video width="560" controls>
-    <source src="https://github.com/yjvyas/yjvyas.github.io/blob/main/assets/video/LunarLeaper.mp4" type="video/mp4">
+    <source src="assets/video/LunarLeaper.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>   
 * Contributing to the initial development of the first legged robot to be deployed for lunar exploration
 * Modelling of robot foot - granular surfaces using Raisim (C++), implementing a Reinforcement Learning pipeline from scratch using Pytorch
