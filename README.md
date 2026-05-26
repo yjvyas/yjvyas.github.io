@@ -63,13 +63,13 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ### Doctor of Philosophy – University of Padua, Department of Industrial Engineering
 **10/2022 – 02/2026**
 * Funded by the UniPhD EU Marie-Curie Fellowship, administering €43,200 of research funding
-* [**PhD Thesis:**](https://www.research.unipd.it/handle/11577/3584738) ”Development and validation of a novel balanced robot manipulator”
+* **PhD Thesis:** ”Development and validation of a novel balanced robot manipulator” [(link)](https://www.research.unipd.it/handle/11577/3584738)
 * **Visiting Research period** at Robotic Systems Lab, **ETH Zurich** (03/2025 - 09/2025).
 
 ### Master’s of Science in Robotics, Systems and Control – ETH Zürich
 **09/2019 – 10/2021**
 * GPA: 5.55/6.00, with 6.0 (full) mark in Master’s Thesis.
-* [**Master’s Thesis:**](https://www.research-collection.ethz.ch/items/06117348-8164-4cd8-b169-30ed6232f1cf) “Human Walking Gait Modelling & Estimation for Physical Human-Robot Interaction with an Aerial Robot” at the Autonomous Systems Lab, with publications in IEEE.
+* **Master’s Thesis:** “Human Walking Gait Modelling & Estimation for Physical Human-Robot Interaction with an Aerial Robot” at the Autonomous Systems Lab, with publications in IEEE [(link)](https://www.research-collection.ethz.ch/items/06117348-8164-4cd8-b169-30ed6232f1cf).
 * Semester Project in “Safe Path Planning under wind for UAVs” at ASL.
 * Courses in Vision/Perception, Learning, Dynamics, Control, and Embedded Systems.
 
