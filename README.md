@@ -1,4 +1,4 @@
-Robotics Engineer specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying robotic systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research periods at several world-leading labs and large industry organisations. Skilled in CAD, simulation, C++, Python, ROS2, and hardware/software integration for high-precision robotic applications.
+Vehicle Motion Control AI/ML Platform Design Engineer at General Motors Canada. PhD specializing in mechanical/control co-design, robot manipulation, and mobile robotics. Experienced in designing, prototyping, and deploying autonomous systems, from parallel manipulators to aerial robots. ETH Zurich graduate, with research periods at several world-leading labs and large industry organisations. Skilled in modelling/simulation, state estimation, and applied control. 
 
 yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 
@@ -84,6 +84,10 @@ yjvyas@gmail.com | [LinkedIn](https://linkedin.com/in/yjvyas)
 ---
 
 ## Professional Experience
+### Vehicle Motion Control AI/ML Platform Design Engineer – General Motors (Canada)
+**08/2026 – Present**
+* Advanced state estimation and control using classical and AI/ML methods for vehicles.
+
 ### PhD Candidate – University of Padua, Department of Industrial Engineering (Italy)
 **10/2022 – 09/2025**
 * Full-cycle development and experimental validation of a novel parallel manipulator, achieving 79% torque reduction and 56% precision improvement for precision industrial applications
